@@ -1,0 +1,23 @@
+{
+  "name": "project_x",
+  "version": "1.0.0",
+  "description": "No Communication Ordering system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madhurdeep/project_X.git"
+  },
+  "author": "Madhurdeep Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Madhurdeep/project_X/issues"
+  },
+  "homepage": "https://github.com/Madhurdeep/project_X#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
